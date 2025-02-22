@@ -7,8 +7,8 @@ const Footer = () => {
         {/* Left Section */}
         <div>
           <h1 className="text-3xl font-bold">
-            Ale
-            <span className="text-transparent bg-gradient-to-r from-purple-500 to-orange-500 bg-clip-text">X</span>
+            <span className="text-transparent bg-gradient-to-r from-purple-500 to-orange-500 bg-clip-text">M</span>
+            eena
           </h1>
           <p className="text-gray-300 mt-2">
           I'm Meena Suthar, US Accountant & Tax Associate</p>

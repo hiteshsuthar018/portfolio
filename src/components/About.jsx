@@ -122,9 +122,9 @@ const About = () => {
         <h1 className="text-3xl lg:text-8xl font-bold leading-tight mb-4">
           I'm{" "}
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-orange-500">
-            Meena Suthar
+            Meena Suthar ACCA
           </span>
-          , US <br /> Accountant & Tax Associate.
+          <br /> US Accountant & Tax Associate.
         </h1>
         <p className="text-lg lg:text-3xl lg:leading-10 mb-8">
           I am USA Accountant and Tax Associate from India with 4 years of
